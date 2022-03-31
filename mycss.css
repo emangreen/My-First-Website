@@ -1,1 +1,29 @@
 
+h1{text-align: center;
+  text-decoration: underline;
+  color:rgb(336,100,100);
+  font-size: 30px;
+letter-spacing: 4px;}
+
+h3{text-align: left;
+  text-decoration: underline;
+  color:rgb(20,200,90);
+margin-left: 10px;}
+
+h4{text-decoration: bold;
+  color:blueviolet;}
+
+p{font-family:monospace;
+margin-left: 10px;}
+
+body{background: rgb(300,200,150);
+border-style: dashed;
+border-left-width: thin;
+border-right-width:thin;
+border-color:grey;}
+
+ul{font-style: italic;
+letter-spacing: 2px;}
+
+img{float: right;
+border-radius:10px;}
